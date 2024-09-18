@@ -1,0 +1,14 @@
+{
+  "name": "node_intro",
+  "version": "1.0.0",
+  "description": "Node_intro package.json",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kurt",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
