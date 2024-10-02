@@ -1,0 +1,22 @@
+{
+  "name": "node-pg_further",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0",
+    "pg": "^8.13.0",
+    "slugify": "^1.6.6"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
